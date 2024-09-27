@@ -8,7 +8,7 @@
     <link href="/2024/09/27/hello/"/>
     <url>/2024/09/27/hello/</url>
     
-    <content type="html"><![CDATA[<p>最近没有更新blog，是因为一直更新不了，github上面的内容都更新了，但是页面不更新，今天下定决心要解决这个问题，刚刚总算让我在一大堆垃圾文章里面找到了解决方法<img src="/.io//image.png" alt="alt text"> 谢谢她！！！</p><p>再加上更新blog的操作顺序 &gt;D: Set-ExecutionPolicy RemoteSigned-Scope Process cd blog/KavinXvBlog hexo clean hexo g hexo d 你好</p>]]></content>
+    <content type="html"><![CDATA[<p>最近没有更新blog，是因为一直更新不了，github上面的内容都更新了，但是页面不更新，今天下定决心要解决这个问题，刚刚总算让我在一大堆垃圾文章里面找到了解决方法<img src="/.io//image.png" alt="alt text"> 谢谢她！！！</p><p>再加上更新blog的操作顺序 &gt;D: Set-ExecutionPolicy RemoteSigned-Scope Process cd blog/KavinXvBlog hexo clean hexo g hexo d 你好</p><figure><img src="/.io//highlight.png" alt="alt text"><figcaption aria-hidden="true">alt text</figcaption></figure>]]></content>
     
     
     
